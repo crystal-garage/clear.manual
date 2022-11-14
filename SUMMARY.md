@@ -13,10 +13,10 @@
   * [Primary Keys](model/column-types/primary-keys.md)
   * [Converters](model/column-types/converters.md)
 * [Associations](model/associations/README.md)
-  * [belongs\_to](model/associations/belongs_to.md)
-  * [has\_many](model/associations/has_many.md)
-  * [has\_many through](model/associations/has_many-through.md)
-  * [has\_one](model/associations/has_one.md)
+  * [belongs\_to](model/associations/belongs\_to.md)
+  * [has\_many](model/associations/has\_many.md)
+  * [has\_many through](model/associations/has\_many-through.md)
+  * [has\_one](model/associations/has\_one.md)
 * [Lifecycle](model/lifecycle/README.md)
   * [Persistence](model/lifecycle/persistence.md)
   * [Validations](model/lifecycle/validations.md)
@@ -67,9 +67,8 @@
 
 ## Other resources
 
-* [API Documentation](https://anykeyh.github.io/clear/)
-* [Inline documentation](https://anykeyh.github.io/clear/)
-* [Github repository](https://github.com/anykeyh/clear)
-* [Credits](https://github.com/anykeyh/clear/blob/master/CONTRIBUTORS.md)
+* [API Documentation](https://crystal-garage.gitbook.io/clear/)
+* [Inline documentation](https://crystal-garage.github.io/clear/)
+* [Github repository](https://github.com/crystal-garage/clear)
+* [Contributors](https://github.com/crystal-garage/clear/graphs/contributors)
 * [Benchmark](other-resources/benchmark.md)
-
